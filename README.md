@@ -44,3 +44,7 @@ Soon™
 ## Thanks
 
 - SwordL on the Sudomemo Discord - made the original joke pack that I based this on
+
+## Fard
+
+- fard
